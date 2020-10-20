@@ -793,6 +793,7 @@ var ENGLISH_WORDS = [
   "quote",
   "online",
   "elect",
+  "jazz",
   "jacket",
   "rarely",
   "shift",
